@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3b4833d9.chunk.css",
+    "main.js": "./static/js/main.b5c823c4.chunk.js",
+    "main.js.map": "./static/js/main.b5c823c4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e3300a0b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e3300a0b.js.map",
+    "static/js/2.cf92c1f4.chunk.js": "./static/js/2.cf92c1f4.chunk.js",
+    "static/js/2.cf92c1f4.chunk.js.map": "./static/js/2.cf92c1f4.chunk.js.map",
+    "static/js/3.e21231a7.chunk.js": "./static/js/3.e21231a7.chunk.js",
+    "static/js/3.e21231a7.chunk.js.map": "./static/js/3.e21231a7.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3b4833d9.chunk.css.map": "./static/css/main.3b4833d9.chunk.css.map",
+    "static/js/2.cf92c1f4.chunk.js.LICENSE.txt": "./static/js/2.cf92c1f4.chunk.js.LICENSE.txt",
+    "static/media/abbas.9b137724.mp4": "./static/media/abbas.9b137724.mp4",
+    "static/media/aboutus.b550507a.svg": "./static/media/aboutus.b550507a.svg",
+    "static/media/c1.334c503d.png": "./static/media/c1.334c503d.png",
+    "static/media/c2.3afc85d0.png": "./static/media/c2.3afc85d0.png",
+    "static/media/c3.240c9696.png": "./static/media/c3.240c9696.png",
+    "static/media/cake-cutting.0f57e32b.mp4": "./static/media/cake-cutting.0f57e32b.mp4",
+    "static/media/carousel1.72c52020.jpg": "./static/media/carousel1.72c52020.jpg",
+    "static/media/dad.3f0593f0.mp4": "./static/media/dad.3f0593f0.mp4",
+    "static/media/dada.6f30e0f6.mp4": "./static/media/dada.6f30e0f6.mp4",
+    "static/media/dadi.745e09f4.mp4": "./static/media/dadi.745e09f4.mp4",
+    "static/media/five-memory.9cceb3b6.jpg": "./static/media/five-memory.9cceb3b6.jpg",
+    "static/media/four-memory.b662e649.jpg": "./static/media/four-memory.b662e649.jpg",
+    "static/media/home.66b71da2.svg": "./static/media/home.66b71da2.svg",
+    "static/media/logo.b3f797f4.jpg": "./static/media/logo.b3f797f4.jpg",
+    "static/media/mom.4dabe145.mp4": "./static/media/mom.4dabe145.mp4",
+    "static/media/one-memory.5ccc3e2f.jpg": "./static/media/one-memory.5ccc3e2f.jpg",
+    "static/media/review.67fb423a.svg": "./static/media/review.67fb423a.svg",
+    "static/media/shabbir.c1207be0.mp4": "./static/media/shabbir.c1207be0.mp4",
+    "static/media/three-memory.07c4b976.jpg": "./static/media/three-memory.07c4b976.jpg",
+    "static/media/two-memory.0003c5aa.jpg": "./static/media/two-memory.0003c5aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3300a0b.js",
+    "static/js/2.cf92c1f4.chunk.js",
+    "static/css/main.3b4833d9.chunk.css",
+    "static/js/main.b5c823c4.chunk.js"
+  ]
+}
